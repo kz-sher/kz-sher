@@ -1,6 +1,6 @@
 # $whoami
 
-- Nickname: KZ (pronounced as "Kayzey")
+- Nickname: KZ (pronounced as "Kayzee")
 - Major: Bachelor of Computer Science
 - Nationality: Malaysian
 - Current Job: Software Engineer (Server & Backend)
